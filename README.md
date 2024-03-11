@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Software for space applications<br>👯 I’m looking to collaborate on fun opensource projects<br>🌱 I’m currently learning Rust<br>
+🔭 I’m currently working on Software for space applications<br>👯 I’m looking to collaborate on fun opensource projects<br>🌱 I’m currently learning Lua and Rust<br>
 
 
 ## 🌐 Socials:
